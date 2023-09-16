@@ -4,7 +4,7 @@ A (work-in-progress) keyboard.
 
 ## Useful Resources
 
-This is my first attempt at designing anything keyboard related, and I have been referring to various guides online to come up with these designs. I've listed some of the resources I've used below:
+This is my first attempt at designing anything keyboard related, and I've been referring to various guides online to come up with these designs. I've listed some of the resources I've used below:
 
 - [Keyboard Layout Editor (KLE)](http://www.keyboard-layout-editor.com/) for designing and exporting the layout
 - **PCB Design**
