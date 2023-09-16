@@ -1,6 +1,6 @@
-# Unnamed TKL Keyboard
+# Unnamed Keyboard
 
-A (work-in-progress) TKL keyboard.
+A (work-in-progress) keyboard.
 
 ## Useful Resources
 
