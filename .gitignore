@@ -1,0 +1,4 @@
+# KiCAD
+*/fp-info-cache
+*.kicad_*.lck
+*/*-backups/*.zip
