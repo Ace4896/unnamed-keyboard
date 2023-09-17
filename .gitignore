@@ -1,4 +1,8 @@
 # KiCAD
-*/fp-info-cache
 *.kicad_*.lck
+*/fp-info-cache
+*/#auto_saved_files#
 */*-backups/*.zip
+
+# KiCAD - KLE Auto Placer
+*/keyautoplace.log
