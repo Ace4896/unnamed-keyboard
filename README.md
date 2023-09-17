@@ -2,6 +2,17 @@
 
 A (work-in-progress) keyboard.
 
+## Parts
+
+The PCB is built around the following components
+
+- [RP2040 Microcontroller](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
+- [Kailh CPG151101S11 Hotswap Sockets](http://www.kailh.com/en/Products/Ks/HPC/883.html)
+- [EC11E Rotary Encoder](https://tech.alpsalpine.com/e/products/category/encorder/sub/01/series/ec11e/)
+  - Any EC11E rotary encoder will do as long as it has a push-on switch (i.e. it can be pressed down)
+  - I used the [Alps EC11E15244G1](https://tech.alpsalpine.com/e/products/detail/EC11E15244G1/)
+- ... remaining parts to be determined
+
 ## Useful Resources
 
 This is my first attempt at designing anything keyboard related, and I've been referring to various guides online to come up with these designs. I've listed some of the resources I've used below:
